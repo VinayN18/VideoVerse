@@ -19,3 +19,6 @@
 - python manage.py migrate.
 - python manage.py runserver.
   The app will be running in local host.
+
+### DEMO Video
+[https://drive.google.com/file/d/1wX4kGXzegQT3hevlFd9lPbiuMnk_zoqZ/view](url)
